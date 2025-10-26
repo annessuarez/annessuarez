@@ -8,4 +8,6 @@ Estoy estudiando
 - Java
 - HTML/CSS
 
+Además, estoy en proceso de sacarme el C1 en inglés tanto de Oxford como de Cambridge.
+
 ![logo cuatrovientos](https://cuatrovientos.org/wp-content/uploads/2025/01/LOGO-CENTRO-INTEGRADO-CUATROVIENTOS-300x115-2.png).
